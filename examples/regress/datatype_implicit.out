@@ -1,0 +1,17 @@
+Debug output:
+
+nerr = 2, error_code = Nested error at 6 - 5, error_info = No information, span = 0 - 15
+(
+   <5 Baz>
+    | 
+   < Bar>
+    | 
+   nerr = 1, error_code = Syn, error_info = No information, span = 6 - 5
+   < DtErr>
+    | 
+   < Bar>
+    | 
+   <235 Baz>
+    | 
+   <default DtDefault>
+   )

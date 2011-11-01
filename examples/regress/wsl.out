@@ -1,0 +1,47 @@
+Debug output:
+
+[
+   (
+      <
+         [207;136;97;49]
+          Ip>
+       | 
+      < Unauthorized>
+       | 
+      < Unauthorized>
+       | 15/Oct/1997:18:46:51 -0700 | 
+      (
+         < Get>
+          | /tk/p.txt | 
+         {
+            (1 | 0)
+            }
+         )
+       | 
+      {200}
+       | 
+      < Unavailable>
+      )
+   ;
+   (
+      <
+         [tj62;aol;com]
+          Host>
+       | 
+      < Unauthorized>
+       | 
+      < Unauthorized>
+       | 16/Oct/1997:14:32:22 -0700 | 
+      (
+         < Put>
+          | /scpt/dd@grp.org/confirm | 
+         {
+            (1 | 0)
+            }
+         )
+       | 
+      {200}
+       | 
+      <941 Len>
+      )
+   ]
